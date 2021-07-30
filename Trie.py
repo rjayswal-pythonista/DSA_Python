@@ -1,10 +1,14 @@
 #   Created by Elshad Karimov 
 #   Copyright © 2021 AppMillers. All rights reserved.
 
+from typing import List
+
 class TrieNode:
     def __init__(self):
         self.children = {}
         self.endOfString = False
+        self.words = list()
+        self.n = 0
 
 class Trie:
     def __init__(self):
@@ -19,6 +23,9 @@ class Trie:
                 node = TrieNode()
                 current.children.update({ch:node})
             current = node
+            if node.n < 3:
+                node.words.append(word)
+                node.n += 1
         current.endOfString = True
         print("Successfully inserted")
     
@@ -35,6 +42,21 @@ class Trie:
         else:
             return False
         
+    def find_word_by_prefix(self, c):
+        if self.root and c in self.root.children:
+            self.root = self.root.children[c]
+            return self.root.words
+        else:
+            self.root = None
+            return []
+
+class Solution:
+    def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:
+        products.sort()
+        newTrie = Trie()
+        for word in products:
+            newTrie.insertString(word)
+        return [newTrie.find_word_by_prefix(c) for c in searchWord]       
 
 def deleteString(root, word, index):
     ch = word[index]
@@ -66,9 +88,13 @@ def deleteString(root, word, index):
 
 
 
-    
+""" 
 newTrie = Trie()
 newTrie.insertString("App")
 newTrie.insertString("Appl")
 deleteString(newTrie.root, "App", 0)
 print(newTrie.searchString("App"))
+"""
+sol = Solution()
+products = ['mousepad', 'moneypot', 'monitor', 'mouse', 'mobile']
+print(sol.suggestedProducts(products, "mouse"))
