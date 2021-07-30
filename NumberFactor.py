@@ -1,4 +1,4 @@
-#   Created by Elshad Karimov 
+#   Created by Roshan Jayswal 
 #   Copyright © AppMillers. All rights reserved.
 
 # Number Factor Problem  in Python

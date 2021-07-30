@@ -1,5 +1,5 @@
-#   Created by Elshad Karimov on 19/05/2020.
-#   Copyright © 2020 AppMillers. All rights reserved.
+#   Created by Roshan Jayswal on 19/05/2020.
+#   Copyright © 2021. All rights reserved.
 
 class MultiStack:
 

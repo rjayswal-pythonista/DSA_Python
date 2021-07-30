@@ -1,5 +1,5 @@
-#  Created by Elshad Karimov on 3/17/20.
-#  Copyright © 2020 Elshad Karimov. All rights reserved.
+#  Created by Roshan Jayswal on 3/17/20.
+#  Copyright © 2020 Roshan Jayswal. All rights reserved.
 
 
 array = [1, 2, 3, 4, 5]

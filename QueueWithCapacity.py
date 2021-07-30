@@ -1,5 +1,5 @@
-#   Created by Elshad Karimov on 29/05/2020.
-#   Copyright © 2020 AppMillers. All rights reserved.
+#   Created by Roshan Jayswal on 29/05/2020.
+#   Copyright © 2021. All rights reserved.
 
 class Queue:
     def __init__(self, maxSize):

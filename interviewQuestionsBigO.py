@@ -1,5 +1,5 @@
-#  Created by Elshad Karimov on 3/26/20.
-#  Copyright © 2020 Elshad Karimov. All rights reserved.
+#  Created by Roshan Jayswal on 3/26/20.
+#  Copyright © 2020 Roshan Jayswal. All rights reserved.
 
 ################ Interview Questions #############
 #Question1

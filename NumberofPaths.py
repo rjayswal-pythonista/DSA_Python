@@ -1,4 +1,4 @@
-#   Created by Elshad Karimov 
+#   Created by Roshan Jayswal 
 #   Copyright © AppMillers. All rights reserved.
 
 # Number of paths to reach the last cell with given cost in 2D array

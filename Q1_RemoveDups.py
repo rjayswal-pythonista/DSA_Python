@@ -1,5 +1,5 @@
-#   Created by Elshad Karimov on 17/05/2020.
-#   Copyright © 2020 AppMillers. All rights reserved.
+#   Created by Roshan Jayswal on 17/05/2020.
+#   Copyright © 2021. All rights reserved.
 
 # Question 1 - Remove Dups : Write a code to remove duplicates from an unsorted linked list. 
 

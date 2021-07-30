@@ -1,5 +1,5 @@
-#   Created by Elshad Karimov 
-#   Copyright © 2020 AppMillers. All rights reserved.
+#   Created by Roshan Jayswal 
+#   Copyright © 2021. All rights reserved.
 
 class BinaryTree:
     def __init__(self, size):

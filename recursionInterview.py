@@ -1,5 +1,5 @@
-#   Created by Elshad Karimov on 4/01/20.
-#   Copyright © 2020 AppMillers. All rights reserved.
+#   Created by Roshan Jayswal on 4/01/20.
+#   Copyright © 2021. All rights reserved.
 
 # Question 1
 def sumofDigits(n):
