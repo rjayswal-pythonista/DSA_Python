@@ -7,154 +7,93 @@ The topics that are covered in this course.
 #### Section 1 - Introduction ####
 
      - What are Data Structures?
-
      - What is an algorithm?
-
      - Why are Data Structures and Algorithms important?
-
      - Types of Data Structures
-
-Types of Algorithms
-
-Section 2 - Recursion
-
-What is Recursion?
-
-Why do we need recursion?
-
-How Recursion works?
-
-Recursive vs Iterative Solutions
-
-When to use/avoid Recursion?
-
-How to write Recursion in 3 steps?
-
-How to find Fibonacci numbers using Recursion?
-
-Section 3 - Cracking Recursion Interview Questions
-
-Question 1 - Sum of Digits
-
-Question 2 - Power
-
-Question 3 - Greatest Common Divisor
-
-Question 4 - Decimal To Binary
-
-Section 4 - Bonus CHALLENGING Recursion Problems (Exercises)
-
-power
-
-factorial
-
-productofArray
-
-recursiveRange
-
-fib
-
-reverse
-
-isPalindrome
-
-someRecursive
-
-flatten
-
-captalizeFirst
-
-nestedEvenSum
-
-capitalizeWords
-
-stringifyNumbers
-
-collectStrings
-
-Section 5 - Big O Notation
-
-Analogy and Time Complexity
-
-Big O, Big Theta and Big Omega
-
-Time complexity examples
-
-Space Complexity
-
-Drop the Constants and the non dominant terms
-
-Add vs Multiply
-
-How to measure the codes using Big O?
-
-How to find time complexity for Recursive calls?
-
-How to measure Recursive Algorithms that make multiple calls?
-
-Section 6 - Top 10 Big O Interview Questions (Amazon, Facebook, Apple and Microsoft)
-
-Product and Sum
-
-Print Pairs
-
-Print Unordered Pairs
-
-Print Unordered Pairs 2 Arrays
-
-Print Unordered Pairs 2 Arrays 100000 Units
-
-Reverse
-
-O(N)  Equivalents
-
-Factorial Complexity
-
-Fibonacci Complexity
-
-Powers of 2
-
-Section 7 - Arrays
-
-What is an Array?
-
-Types of Array
-
-Arrays in Memory
-
-Create an Array
-
-Insertion Operation
-
-Traversal Operation
-
-Accessing an element of Array
-
-Searching for an element in Array
-
-Deleting an element from Array
-
-Time and Space complexity of One Dimensional Array
-
-One Dimensional Array Practice
-
-Create Two Dimensional Array
-
-Insertion - Two Dimensional Array
-
-Accessing an element of Two Dimensional Array
-
-Traversal - Two Dimensional Array
-
-Searching for an element in Two Dimensional Array
-
-Deletion - Two Dimensional Array
-
-Time and Space complexity of Two Dimensional Array
-
-When to use/avoid array
-
-Section 8 - Python Lists
+     - Types of Algorithms
+
+#### Section 2 - Recursion ####
+
+     - What is Recursion?
+     - Why do we need recursion?
+     - How Recursion works?
+     - Recursive vs Iterative Solutions
+     - When to use/avoid Recursion?
+     - How to write Recursion in 3 steps?
+     - How to find Fibonacci numbers using Recursion?
+
+#### Section 3 - Cracking Recursion Interview Questions ####
+
+     - Question 1 - Sum of Digits
+     - Question 2 - Power
+     - Question 3 - Greatest Common Divisor
+     - Question 4 - Decimal To Binary
+     
+#### Section 4 - Bonus CHALLENGING Recursion Problems (Exercises) ####
+
+     - power
+     - factorial
+     - productofArray
+     - recursiveRange
+     - fib
+     - reverse
+     - isPalindrome
+     - someRecursive
+     - flatten
+     - captalizeFirst
+     - nestedEvenSum
+     - capitalizeWords
+     - stringifyNumbers
+     - collectStrings
+
+#### Section 5 - Big O Notation #####
+
+     - Analogy and Time Complexity
+     - Big O, Big Theta and Big Omega
+     - Time complexity examples
+     - Space Complexity
+     - Drop the Constants and the non dominant terms
+     - Add vs Multiply
+     - How to measure the codes using Big O?
+     - How to find time complexity for Recursive calls?
+     - How to measure Recursive Algorithms that make multiple calls?
+
+#### Section 6 - Top 10 Big O Interview Questions (Amazon, Facebook, Apple and Microsoft) ####
+
+     - Product and Sum
+     - Print Pairs
+     - Print Unordered Pairs
+     - Print Unordered Pairs 2 Arrays
+     - Print Unordered Pairs 2 Arrays 100000 Units
+     - Reverse
+     - O(N)  Equivalents
+     - Factorial Complexity
+     - Fibonacci Complexity
+     - Powers of 2
+
+#### Section 7 - Arrays ####
+
+     - What is an Array?
+     - Types of Array
+     - Arrays in Memory
+     - Create an Array
+     - Insertion Operation
+     - Traversal Operation
+     - Accessing an element of Array
+     - Searching for an element in Array
+     - Deleting an element from Array
+     - Time and Space complexity of One Dimensional Array
+     - One Dimensional Array Practice
+     - Create Two Dimensional Array
+     - Insertion - Two Dimensional Array
+     - Accessing an element of Two Dimensional Array
+     - Traversal - Two Dimensional Array
+     - Searching for an element in Two Dimensional Array
+     - Deletion - Two Dimensional Array
+     - Time and Space complexity of Two Dimensional Array
+     - When to use/avoid array
+
+#### Section 8 - Python Lists ####
 
 What is a List? How to create it?
 
